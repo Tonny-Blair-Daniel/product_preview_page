@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [https://github.com/Tonny-Blair-Daniel/product_preview_page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [website](https://tonny-blair-daniel.github.io/product_preview_page/)
 
 ### Built with
 
@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-- I learnt how to use include images for different screen sizes.
+- I learnt how to include images for different screen sizes using the picture element of HTML.
 
 ```html
 <picture>
@@ -39,4 +39,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Website - [Blair](https://www.your-site.com)
+- Website - [website](https://tonny-blair-daniel.github.io/product_preview_page/)
